@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sun Jun 20 08:22:39 2021
-
-@author: samiha hussein
-"""
 
 from sklearn.cluster import KMeans
 import pandas as pd
