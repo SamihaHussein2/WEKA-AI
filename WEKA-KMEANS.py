@@ -5,7 +5,7 @@ from matplotlib import pyplot as plt
 #%matplotlib inline
 
 
-path= "C:/Users/samiha hussein/Downloads/SeoulBikeData.csv"
+path= "SeoulBikeData.csv"
 df = pd.read_csv(path,encoding="latin1")
 print(df.head())
 
