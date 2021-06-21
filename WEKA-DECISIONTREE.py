@@ -13,7 +13,7 @@ from sklearn.metrics import accuracy_score
 from sklearn import tree
 
 #path of the dataset
-filepath = 'C:/Users/samiha hussein/Downloads/SeoulBikeData.csv'
+filepath = 'SeoulBikeData.csv'
 
 #styling a header with labels
 names = ['Rented Bike', 'Hour', 'Temperature', 'Humidity', 'Wind speed',
