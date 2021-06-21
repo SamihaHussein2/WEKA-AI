@@ -1,4 +1,3 @@
-
 from sklearn.cluster import KMeans
 import pandas as pd
 from sklearn.preprocessing import MinMaxScaler
@@ -74,12 +73,3 @@ for k in k_rng:
 plt.xlabel('K')
 plt.ylabel('Sum of squared error')
 plt.plot(k_rng,sse)
-
-
-
-
-
-
-
-
-
